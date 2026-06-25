@@ -1,12 +1,9 @@
 #announce:если не работает попробуй нажать 🔁 🛑-для ютуба без рекламы ⭐-для ии  📱-для ру приложений при бс
-
+#profile-update-interval: 12
 #profile-title: prem_vpn
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@45.144.50.231:47005?security=reality&encryption=none&echfq=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%E2%AD%90
 
-
-vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@186.246.19.52:47005?security=reality&encryption=none&echfq=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90+%E2%AD%90
-
-vless://239fdf63-0a45-4bc9-8d41-956912fe4273@46.173.25.146:443?security=reality&encryption=none&echfq=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru.crunch-crunch.com&sid=ea1058117be12087#%F0%9F%87%B7%F0%9F%87%BA+%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%F0%9F%9B%91
-vless://13ef8e97-815a-000b-8688-0154d85d26bf@ru16.aimodelhub.top:443?security=reality&encryption=none&echfq=none&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru16.aimodelhub.top&sid=a73cf719b624#%F0%9F%87%A8%F0%9F%87%AD+%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F+%F0%9F%9B%91
+vless://239fdf63-0a45-4bc9-8d41-956912fe4273@186.246.31.136:443?alpn=h2,http/1.1&echfq=none&fp=firefox&type=tcp&sni=ads.x5.ru&sid=ea1058117be12087&security=reality&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&spx=%2Fabout&allowinsecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%F0%9F%9B%91
 
 hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@194.164.235.22:47005?security=tls&fm=%7B%7D&allowinsecure=0&sni=test.mcufa.pro#%F0%9F%87%AB%F0%9F%87%AE+%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
 hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@82.21.114.69:47005?security=tls&fm=%7B%7D&allowinsecure=0&sni=test.mcufa.pro#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
