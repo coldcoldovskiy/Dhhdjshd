@@ -1,21 +1,28 @@
 #announce:если не работает попробуй нажать 🔁 🛑-для ютуба без рекламы ⭐-для ии  📱-для ру приложений при бс
 #profile-update-interval: 12
 #profile-title: prem_vpn
-vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@45.144.50.231:47005?security=reality&encryption=none&echfq=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0+%E2%AD%90
-
-vless://239fdf63-0a45-4bc9-8d41-956912fe4273@186.246.31.136:443?alpn=h2,http/1.1&echfq=none&fp=firefox&type=tcp&sni=ads.x5.ru&sid=ea1058117be12087&security=reality&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&spx=%2Fabout&allowinsecure=0&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%F0%9F%9B%91
-
-hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@194.164.235.22:47005?security=tls&fm=%7B%7D&allowinsecure=0&sni=test.mcufa.pro#%F0%9F%87%AB%F0%9F%87%AE+%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
-hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@82.21.114.69:47005?security=tls&fm=%7B%7D&allowinsecure=0&sni=test.mcufa.pro#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
-
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@45.144.50.231:47005?flow=xtls-rprx-vision&encryption=none&security=reality&sni=akamai.com&fp=firefox&echfq=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&allowinsecure=0&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%E2%AD%90
+vless://239fdf63-0a45-4bc9-8d41-956912fe4273@46.173.25.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=ru.crunch-crunch.com&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&fp=firefox#🇷🇺 Россия 🛑
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.60.23.127:47005?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=akamai.com&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=chrome#🇩🇪 Германия 
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@82.39.213.192:47010?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=akamai.com&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#🇺🇸 США
+vless://239fdf63-0a45-4bc9-8d41-956912fe4273@138.124.24.219:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=sw.crunch-crunch.com&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&fp=firefox#🇸🇪 Швеция
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@45.155.103.64:47010?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&sni=akamai.com&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=qq#🇫🇷 Франция
 trojan://RM6i1jElbS@vless.asdsdffdsfgscsdgvsronline.top:24985?security=tls&alpn=h3,h2,http/1.1&headerType=http&allowinsecure=0&type=tcp#%F0%9F%87%A6%F0%9F%87%B1%E2%AC%87%EF%B8%8F%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D1%8B%E2%AC%87%EF%B8%8F
-hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@151.236.93.175:7443?security=tls&fm=%7B%7D&allowinsecure=0&sni=test.mcufa.pro#%F0%9F%87%B0%F0%9F%87%BF+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+1
-vless://f49b264d-3610-4f09-bb3b-3838a8022569@151.236.114.215:8090?mode=auto&path=%2F&security=reality&encryption=none&echfq=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&fp=qq&allowinsecure=0&type=xhttp&sni=iv.kommersant.ru&sid=a20d3ed244c76426#%F0%9F%87%A9%F0%9F%87%AA+%D0%BE%D0%B1%D1%85%D0%BE%D0%B4+2
-vless://3a68e576-5022-47ab-b0c8-a17aeef881c4@78.159.245.35:8090?mode=auto&path=%2F&security=reality&encryption=none&echfq=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&fp=firefox&spx=%2F&allowinsecure=0&type=xhttp&sni=iv.kommersant.ru&sid=a20d3ed244c76426#%F0%9F%87%A9%F0%9F%87%AA%D0%BE%D0%B1%D1%85%D0%BE%D0%B4+3
-vless://f49b264d-3610-4f09-bb3b-3838a8022569@151.236.114.215:8090?mode=auto&path=%2F&security=reality&encryption=none&echfq=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&fp=qq&allowinsecure=0&type=xhttp&sni=iv.kommersant.ru&sid=a20d3ed244c76426#%F0%9F%87%A9%F0%9F%87%AA%D0%BE%D0%B1%D1%85%D0%BE%D0%B4+4
-hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.129:47006?security=tls&fm=%7B%7D&allowinsecure=0&sni=test.mcufa.pro#%F0%9F%87%B3%F0%9F%87%B1+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+5
-hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.129:47007?security=tls&fm=%7B%7D&allowinsecure=0&sni=test.mcufa.pro#%F0%9F%87%B3%F0%9F%87%B1+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+6
-hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.108:47005?security=tls&fm=%7B%7D&allowinsecure=0&sni=test.mcufa.pro#%F0%9F%87%B7%F0%9F%87%BA+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+7%F0%9F%93%B1
-hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.129:47005?security=tls&fm=%7B%7D&allowinsecure=0&sni=test.mcufa.pro#%F0%9F%87%B7%F0%9F%87%BA+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+8%F0%9F%93%B1
-vless://3a68e576-5022-47ab-b0c8-a17aeef881c4@78.159.240.196:8090?mode=auto&path=%2F&security=reality&encryption=none&echfq=none&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&fp=firefox&spx=%2F&allowinsecure=0&type=xhttp&sni=iv.kommersant.ru&sid=a20d3ed244c76426#%F0%9F%87%B7%F0%9F%87%BA%D0%BE%D0%B1%D1%85%D0%BE%D0%B4+9%F0%9F%93%B1
-vless://f49b264d-3610-4f09-bb3b-3838a8022569@79.174.92.203:22?echfq=none&fp=randomized&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=6b2f4e6ac9b1d2f0&mode=gun&security=reality&encryption=none&authority=&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&spx=%2F&allowinsecure=0#%F0%9F%87%B7%F0%9F%87%BA+%D0%BE%D0%B1%D1%85%D0%BE%D0%B4+10
+hysteria2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@newlte.kihsuyhf8jkiugsxb.cfd:6443?sni=newlte.kihsuyhf8jkiugsxb.cfd&fp=random#🇷🇺обход 1 📱
+hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@78.159.247.166:7443?sni=test.mcufa.pro&fp=chrome#🇨🇿обход 2
+hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@78.159.247.123:7443?sni=test.mcufa.pro&fp=chrome#🇨🇿обход 3
+hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@78.159.247.213:7443?sni=test.mcufa.pro&fp=chrome#🇨🇿обход 4
+hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@78.159.247.153:7443?sni=test.mcufa.pro&fp=chrome#🇨🇿обход 5
+hysteria2://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@78.159.247.177:7443?sni=test.mcufa.pro&fp=chrome#🇨🇿обход 6
+hysteria2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@newlte.kihsuyhf8jkiugsxb.cfd:9443?sni=newlte.kihsuyhf8jkiugsxb.cfd&fp=random#🇩🇪обход 7
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.108:7444?encryption=none&security=reality&type=grpc&serviceName=ns&authority=id.pervye.ru&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=firefox#🇩🇪обход 8
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.108:7445?encryption=none&security=reality&type=grpc&serviceName=ns&authority=id.pervye.ru&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=firefox#🇩🇪обход 9
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.129:7444?encryption=none&security=reality&type=grpc&serviceName=ns&authority=id.pervye.ru&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=firefox#🇩🇪обход 10
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.129:7445?encryption=none&security=reality&type=grpc&serviceName=ns&authority=id.pervye.ru&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=firefox#🇩🇪обход 11
+vless://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@cdn.ru.kihsuyhf8jkiugsxb.cfd:443?encryption=none&security=tls&type=ws&path=%2Fv1%2Fdata%2Fsync%2F&sni=s10272.cdn.ngenix.net&fp=chrome#🇪🇪обход 12
+hysteria2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@newlte.kihsuyhf8jkiugsxb.cfd:7443?sni=newlte.kihsuyhf8jkiugsxb.cfd&fp=random#🇫🇮обход 13
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.108:7443?encryption=none&security=reality&type=grpc&serviceName=ns&authority=id.pervye.ru&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=qq#🇫🇮обход 14
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.129:7443?encryption=none&security=reality&type=grpc&serviceName=ns&authority=id.pervye.ru&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=qq#🇫🇮обход 15
+hysteria2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@newlte.kihsuyhf8jkiugsxb.cfd:443?sni=newlte.kihsuyhf8jkiugsxb.cfd&fp=random#🇳🇱обход 16
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.108:7446?encryption=none&security=reality&type=grpc&serviceName=ns&authority=id.pervye.ru&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=chrome#🇵🇱обход 17
+vless://d763ca4c-24a7-4016-a710-fa6ac8a88ef3@217.16.21.129:7446?encryption=none&security=reality&type=grpc&serviceName=ns&authority=id.pervye.ru&sni=id.pervye.ru&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&fp=chrome#🇵🇱обход 18
